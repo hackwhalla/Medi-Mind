@@ -58,6 +58,11 @@ Subscription-based Health Services
 Subscription for Doctors: Premium profiles + patient reviews
 Subscription for Patients
 Income from Affiliated Pharmacy Stores
+
+
+
+
+
 💡 Benefits
 ✅ Early detection of diseases using AI
 ✅ Reduces the burden on healthcare professionals
